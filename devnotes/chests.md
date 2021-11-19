@@ -1,7 +1,9 @@
 # Chests Contents
 (Sourced from [the Minecraft wiki](https://minecraft.fandom.com/wiki/Mini_games))
 
-| Item              | Catergory|                                                                                          |
+*WIP*
+
+| Item              | Catergory| Other                                                                                    |
 |-------------------|----------|------------------------------------------------------------------------------------------|
 | Apple             | Food     |                                                                                          |
 | Cooked Porkchop   | Food     |                                                                                          |
