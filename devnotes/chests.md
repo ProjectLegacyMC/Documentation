@@ -1,7 +1,10 @@
 # Chests Contents
 (Sourced from [the Minecraft wiki](https://minecraft.fandom.com/wiki/Mini_games))
 
-*WIP*
+**WIP**
+
+If an item says that it may have an enchantment, the change of the enchantment being applied should be 0.5
+If an item can have different enchantments, it may not have multiple. (devnote: check if it's enchanted in the chest before giving it an enchantment)
 
 | Item              | Catergory| Other                                                                                    |
 |-------------------|----------|------------------------------------------------------------------------------------------|
